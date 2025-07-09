@@ -22,4 +22,3 @@ dependencyResolutionManagement {
 rootProject.name = "ComponeNeonGlowEfffectUI"
 include(":app")
 include(":neoneffect")
-include(":loginUI")

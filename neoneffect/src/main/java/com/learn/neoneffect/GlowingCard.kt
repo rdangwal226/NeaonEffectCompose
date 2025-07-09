@@ -40,6 +40,16 @@ fun GlowingCard(
                         style = Paint.Style.FILL
                     }
                 )
+//                drawCircle(
+//                    size.width / 2,
+//                    size.height / 2,
+//                    (size.minDimension / 2) - cornerRadius.toPx(),
+//                    Paint().apply {
+//                        color = containerColor.toArgb()
+//                        setShadowLayer(glowingRadius.toPx(), xShift.toPx(), yShift.toPx(), glowingColor.toArgb())
+//                        style = Paint.Style.FILL
+//                    }
+//                )
             }
         }){
      content()
